@@ -1,0 +1,6 @@
+{
+    "dockerComposeFile": ["../docker-compose.yml"],
+    "service": "notebook",
+    "workspaceFolder": "/work",
+    "extensions": ["ms-python.python"]
+  }
